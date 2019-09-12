@@ -24,5 +24,5 @@ Key:
 ![released version](https://img.shields.io/badge/released-brightgreen.svg) ![in progress version](https://img.shields.io/badge/in%20progress-orange.svg) ![planned version](https://img.shields.io/badge/planned-red.svg) ![withdrawn version](https://img.shields.io/badge/withdrawn-gray.svg)
 - ![0.0.1](https://img.shields.io/badge/0.0.1-brightgreen.svg): Initial release (stdout, variables, README.md, MIT License)
 - ![0.0.2](https://img.shields.io/badge/0.0.2-brightgreen.svg): variables and stdin
-- ![0.0.3](https://img.shields.io/badge/0.0.3-orange.svg): data types
+- ![0.0.3](https://img.shields.io/badge/0.0.3-orange.svg): data types _(still no fixed date)_
 - ![0.0.4](https://img.shields.io/badge/0.0.4-red.svg): operators
