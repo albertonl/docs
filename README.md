@@ -9,6 +9,21 @@ Documentation for the ALB Programming Language
 
 Contact us! At alblang.project@gmail.com and we will try too fix it as soon as possible.
 
+# Basic structure of an ALB program
+
+This is the basic structure of an ALB program. You will need this knowledge to understand and properly compile and execute ALB programs.
+
+```
+// This is a comment. Comments must be introduced by two slashes (//), and they are simply ignored by the compiler.
+BEGIN
+	// some code...
+END
+```
+
+Every program is delimited by the `BEGIN` and `END` instructions. Any text not between these instructions will not influence the final result, nor any comment inside or outside the `BEGIN`-`END` structure.
+
+Comments are specified by writing two slashes (`//`) at the beginning of the comment. Anything after the slashes and in the same line will be ignored. Comments are single-lined. There are not multiple-line comments in ALB.
+
 # Table of contents
   - stdlib: ALB Standard Library.
     
